@@ -8,7 +8,7 @@ api_key=sk-9cXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 ```
 2. Run the python script `pycgpt.py`
 ```
-python3 pycgpt.py
+python3 pycgpt.py "why are cats the best"
 ```
 
 ### Currently WIP 🚧
